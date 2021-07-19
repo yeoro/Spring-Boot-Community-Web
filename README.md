@@ -1,2 +1,2 @@
 # Spring-Boot-Community-Web
-처음배우는 스프링부트2 예제
+![image](https://user-images.githubusercontent.com/76935092/126103876-64f8a225-f6a2-463a-9fa7-65cf3f3c7a7c.png)
