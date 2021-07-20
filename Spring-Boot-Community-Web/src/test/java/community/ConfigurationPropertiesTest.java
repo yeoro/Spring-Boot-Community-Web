@@ -22,8 +22,8 @@ public class ConfigurationPropertiesTest {
 	
 	@Test
 	public void test() {
-		List<Map> fruitDataMap = fruitPropertyMap.getList();
-
+		List<Map> fruitDataMap = fruitPropertyMap.getList(); 
+ 
 		assertThat(fruitDataMap.get(0).get("name"), is("banana"));
 		assertThat(fruitDataMap.get(0).get("color"), is("yellow"));
 		

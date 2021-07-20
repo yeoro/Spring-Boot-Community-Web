@@ -12,5 +12,5 @@ import lombok.Data;
 @Component
 @ConfigurationProperties("fruit")
 public class FruitProperty {
-	private List<Fruit> list;
+	private List<Fruit> list; 
 }
