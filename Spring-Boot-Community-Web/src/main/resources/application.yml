@@ -15,7 +15,7 @@ fruit:
         color: red
       - name: water melon
         color: green
-
+      
 ---
 spring:
    profiles: local
